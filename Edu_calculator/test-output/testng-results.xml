@@ -2,31 +2,31 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-26T16:15:42Z" name="Default suite" finished-at="2023-07-26T16:15:48Z" duration-ms="6002">
+  <suite started-at="2023-07-27T06:13:39Z" name="Default suite" finished-at="2023-07-27T06:13:45Z" duration-ms="5962">
     <groups>
     </groups>
-    <test started-at="2023-07-26T16:15:42Z" name="Default test" finished-at="2023-07-26T16:15:48Z" duration-ms="6002">
+    <test started-at="2023-07-27T06:13:39Z" name="Default test" finished-at="2023-07-27T06:13:45Z" duration-ms="5962">
       <class name="obj.cal_obj">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-26T21:45:25Z" name="beforeSuite" finished-at="2023-07-26T21:45:42Z" duration-ms="17201" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-27T11:43:26Z" name="beforeSuite" finished-at="2023-07-27T11:43:39Z" duration-ms="12219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method signature="f()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-26T21:45:42Z" name="f" description="Test case to enter date using id" finished-at="2023-07-26T21:45:43Z" duration-ms="1288" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- f -->
-        <test-method signature="f1()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-26T21:45:43Z" name="f1" description="Test case to click calculate  using id" finished-at="2023-07-26T21:45:46Z" duration-ms="2221" status="PASS">
+        <test-method signature="f1()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-27T11:43:39Z" name="f1" description="Test case to enter date using id" finished-at="2023-07-27T11:43:40Z" duration-ms="1449" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f1 -->
-        <test-method signature="f2()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-26T21:45:46Z" name="f2" description="Test case to enter date using xpath" finished-at="2023-07-26T21:45:47Z" duration-ms="1241" status="PASS">
+        <test-method signature="f2()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-27T11:43:40Z" name="f2" description="Test case to click calculate  using id" finished-at="2023-07-27T11:43:42Z" duration-ms="2152" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f2 -->
-        <test-method signature="f3()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-26T21:45:47Z" name="f3" description="Test case to click calculate  using xpath" finished-at="2023-07-26T21:45:48Z" duration-ms="1176" status="PASS">
+        <test-method signature="f3()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-27T11:43:42Z" name="f3" description="Test case to enter date using xpath" finished-at="2023-07-27T11:43:43Z" duration-ms="1195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f3 -->
+        <test-method signature="f4()[pri:0, instance:obj.cal_obj@3b6d844d]" started-at="2023-07-27T11:43:43Z" name="f4" description="Test case to click calculate  using xpath" finished-at="2023-07-27T11:43:45Z" duration-ms="1099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
       </class> <!-- obj.cal_obj -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
