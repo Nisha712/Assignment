@@ -13,7 +13,7 @@ public class obj extends basetest {
 	  hp.clickbig();
 	  Thread.sleep(2000);
   }
-  @Test(description="click small button using id")
+  @Test(description="click smaller button using id")
   public void f1() throws Exception {
 	  homepage hp=PageFactory.initElements(Driver, homepage.class);
 	  hp.clicksmal();
@@ -25,13 +25,13 @@ public class obj extends basetest {
 	  hp.clickreset();
 	  Thread.sleep(2000);
   }
-  @Test(description="click reset button using xpath")
+  @Test(description="click bigger button using xpath")
   public void f4() throws Exception {
 	  homepage hp=PageFactory.initElements(Driver, homepage.class);
 	  hp.clickxbig();
 	  Thread.sleep(2000);
   }
-  @Test(description="click reset button using xpath")
+  @Test(description="click smaller button using xpath")
   public void f5() throws Exception {
 	  homepage hp=PageFactory.initElements(Driver, homepage.class);
 	  hp.clickxsmall();
